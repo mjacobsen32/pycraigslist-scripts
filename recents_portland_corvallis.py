@@ -1,4 +1,4 @@
-import pycraigslist, sched, time.sys
+import pycraigslist, sched, time, sys
 from prettytable import PrettyTable
 
 
