@@ -5,4 +5,4 @@ usage:
 
 `$ python3 free_items_cs.py --site <list cities> --size <size of queue>`
 
-![Alt text](/md-material/img.jpg?raw=true)
+![Alt text](/md-material/sample.png/raw=true)
