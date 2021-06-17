@@ -7,7 +7,7 @@ def run(sites,repeater):
 		s = Search(site,queue)
 		r = s.run_search()
 		s.print(r)
-	repeater.enter(60,1,run)
+	repeater.enter(60,1,run,argument=(sites,repeater))
 	
 
 if __name__ == "__main__":
