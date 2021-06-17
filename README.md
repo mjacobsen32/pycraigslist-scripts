@@ -1,5 +1,6 @@
 # pycraigslist-scripts
-Script in Python for pycraigslist to track most recent posted items
+Script in Python for pycraigslist to track most recent posted free items
+
 usage:
 
 
